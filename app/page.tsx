@@ -12,7 +12,7 @@ export default function Home() {
         enough to buy 4 litres of cooking oil.
         The city doesn’t warn you; we just did.
       </p>
-
+      
       <iframe
         title="Kampala air vs cigarettes"
         src="https://datawrapper.dwcdn.net/YOUR_ID/1/"
